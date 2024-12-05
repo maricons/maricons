@@ -26,16 +26,6 @@ Perfect for foodies looking for inspiration! 🌟
 
 ---
 
-## 📚 Elokolector  
-**Book donation management for schools 📖**  
-This web project is built to:  
-- Facilitate school registration and book inventory tracking.  
-- Allow users to leave comments and feedback.  
-- Include user-friendly features like responsive design and form validations.  
-
-Great for anyone who believes in the power of sharing knowledge! ✨  
-
----
 
 ## ⚙️ ATAM Analysis for Hipócrates Medical Center  
 **System analysis like a pro 🔍**  
