@@ -7,10 +7,7 @@ Beyond coding, I have a knack for design and enjoy working in Figma creating sim
 high-fidelity prototypes. It's all about blending creativity with functionality to deliver great UX :3.  
 
 Take a look around to discover some of the exciting projects I've been working on. Let’s dive in! 💻✨
-
-
-
-
+<br><br>
 <div style="background-color: #333; color: white; padding: 30px; border-radius: 15px; text-aling: center;">
   <p dir="auto" style="display: flex; gap: 20px;">
      <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/analiarojas2900/imagenes/blob/main/python.png"><img height="50" src="https://github.com/analiarojas2900/imagenes/blob/main/python.png" alt="python" style="max-width: 100%; background-color:whithe;"></a></code>
@@ -27,7 +24,7 @@ Take a look around to discover some of the exciting projects I've been working o
 ---
 I have experience in various areas of computer science, from front-end and back-end development to working with frameworks, tools, and technologies.
 Below, you'll find a collection of logos representing the tools and languages I use, highlighting my skills and expertise in the field.    
-
+<br><br>
 ![Top Languajes](https://github-readme-stats.vercel.app/api/top-langs/?username=maricons&layout=compact)
 
 ---
