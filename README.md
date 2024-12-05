@@ -1,10 +1,14 @@
 # 🌸 Hi there! Welcome to my GitHub 🌸  
 
-Hi! I'm Constanza, a passionate developer from Chile 🇨🇱. I love turning ideas into code and crafting meaningful projects. Here, you'll find some of the cool stuff I've been working on, from mobile apps to web platforms. Let’s dive in! 💻✨  
+Hi! I'm Constanza, a developer from Chile 🇨🇱 with a passion for bringing ideas to life through code. I love crafting meaningful projects, whether it's building mobile apps or creating web platforms.  
+
+Beyond coding, I have a knack for design and enjoy working in Figma—creating everything from simple wireframes to detailed, high-fidelity prototypes. It's all about blending creativity with functionality to deliver great user experiences.  
+
+Take a look around to discover some of the exciting projects I've been working on. Let’s dive in! 💻✨  
 
 ---
 
-These are the most used technologies in my personal GitHub projects:    
+I have experience in various areas of computer science, from front-end and back-end development to working with frameworks, tools, and technologies. Below, you'll find a collection of logos representing the tools and languages I use, highlighting my skills and expertise in the field.    
 
 ![Top Languajes](https://github-readme-stats.vercel.app/api/top-langs/?username=maricons&layout=compact)
 
