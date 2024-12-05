@@ -4,7 +4,7 @@ Hi! I'm Constanza, a passionate developer from Chile 🇨🇱. I love turning id
 
 ---
 
-Here’s a quick glimpse of the programming languages I use the most, visualized for you:  
+These are the most used technologies in my personal GitHub projects:    
 
 ![Top Languajes](https://github-readme-stats.vercel.app/api/top-langs/?username=maricons&layout=compact)
 
