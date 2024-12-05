@@ -29,11 +29,14 @@ Below, you'll find a collection of logos representing the tools and languages I 
 ## 🥚 Huevotama  
 **A fresh eggs e-commerce platform! 🥚**  
 Huevotama is all about connecting people with high-quality, fresh eggs 🐓. This web platform:  
-- Eliminates middlemen for better pricing and quality.  
-- Utilizes **Tailwind CSS**, **Bootstrap**, and **Google Maps API** for an amazing user experience.  
+- Manages orders for a Chilean egg brand, processes home delivery orders, and is set to expand into a mobile app for workers in the future.  
 - Ensures easy navigation for users to locate distributors nearby.  
+- Utilizes **Django**, **Bootstrap 5**, and **Google Maps API** for a smooth user experience and simplifying workflows.  
+- We used an **Agile Scrum methodology**, iterating with sprints and gathering valuable weekly feedback on the app.  
 
-Check it out if you’re into modern agriculture tech! 🚜  
+A great project focused on providing quality eggs directly to customers with a user-centric approach! 🚀
+You can check out more details about this project in the following [presentation](https://www.canva.com/design/DAGYRqk2yCg/Yhkr7NIUZP_xK0iulD-5DA/edit?utm_content=DAGYRqk2yCg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). 
+
 
 ---
 
