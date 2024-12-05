@@ -1,6 +1,6 @@
 # 🌸 Hi there! Welcome to my GitHub 🌸  
 
-<p align="justify">
+<p style="align-content-center">
 Hi! I'm Constanza, a developer from Chile 🇨🇱 with a passion for bringing ideas to life through code. I love crafting meaningful projects, whether it's building mobile apps or creating web platforms.  
 
 Beyond coding, I have a knack for design and enjoy working in Figma—creating everything from simple wireframes to detailed, high-fidelity prototypes. It's all about blending creativity with functionality to deliver great user experiences.  
