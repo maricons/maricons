@@ -13,8 +13,6 @@ Currently, I’m looking for a company that can help me grow further in the web 
 I can't wrap this up without mentioning my adorable cat, [Pan Batido](https://www.youtube.com/watch?v=dQw4w9WgXcQ), and my amazing partner, Javier. I feel incredibly lucky to share my life with him and am so proud of his intellect and achievements. You can check out his GitHub profile 
 [here](https://github.com/javicortesc).💗
 
-Feel free to explore some of the exciting projects I’ve been working on. Let’s dive in! 💻✨
-<br>
 <div style="background-color: #333; color: white; padding: 30px; border-radius: 15px; text-aling: center;">
   <p dir="auto" style="display: flex; gap: 20px;">
      <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/analiarojas2900/imagenes/blob/main/python.png"><img height="50" src="https://github.com/analiarojas2900/imagenes/blob/main/python.png" alt="python" style="max-width: 100%; background-color:whithe;"></a></code>
@@ -23,18 +21,13 @@ Feel free to explore some of the exciting projects I’ve been working on. Let�
      <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/analiarojas2900/imagenes/blob/main/js.png"><img height="50" src="https://github.com/analiarojas2900/imagenes/blob/main/js.png" alt="JS" style="max-width: 100%;"></a></code>
       <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"><img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="typescript" style="max-width: 100%;"></a></code>
      <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/analiarojas2900/imagenes/blob/main/icons8-git-48.png"><img height="50" src="https://github.com/analiarojas2900/imagenes/blob/main/icons8-git-48.png" alt="git" style="max-width: 100%;"></a></code>  
-
-    
   </p> 
 </div>
 
 ---
-I have experience in various areas of computer science, from front-end and back-end development to working with frameworks, tools, and technologies.
-Below, you'll find a collection of logos representing the tools and languages I use, highlighting my skills and expertise in the field.    
-<br><br>
-
  |<a href="https://github.com/rashidul738/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maricons&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="kntz's github stats" /></a> | <a href="https://github.com/rashidul738/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maricons&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
+Feel free to explore some of the exciting projects I’ve been working on. Let’s dive in! 💻✨
 ---
 
 ## 🥚 Huevotama  
@@ -55,7 +48,7 @@ You can check out more details about this project in the following [presentation
 **Cooking made easy! 🍽️**  
 This hybrid mobile app helps users share and discover delicious recipes. Features include:  
 - 🔍 Search, post, and delete recipes (organized by categories like desserts, salads, etc.).  
-- 👩‍🍳 A tab dedicated to your own culinary creations.  
+- A tab dedicated to your own culinary creations.  
 - 🌈 Vibrant design with warm orange, white, and soft black tones.  
 
 Perfect for foodies looking for inspiration! 🌟  
@@ -64,7 +57,7 @@ Perfect for foodies looking for inspiration! 🌟
 
 ## ⚙️ ATAM Analysis for Hipócrates Medical Center  
 **System analysis like a pro 🔍**  
-Conducted an ATAM analysis for the **Hipócrates Medical Center**, diving deep into its architecture to ensure reliability and scalability. A must-have skill for any software architect! 💼  
+Conducted an ATAM analysis for the **Hipócrates Medical Center**, diving deep into its architecture to ensure reliability and scalability. A must-have skill for any software architect!  
 
 ---
 
@@ -75,7 +68,7 @@ When I’m not coding, you’ll likely find me playing Valorant, Wild Rift, Robl
 
 ## 💼 Certification Reports  
 In my journey as a software developer, I’ve also crafted quality assurance reports. One of my latest projects evaluated a book donation platform, focusing on:  
-- Responsiveness 📱  
+- Responsiveness   
 - API security 🔐  
 - Clean and efficient code practices 💡  
 
