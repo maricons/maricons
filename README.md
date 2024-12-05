@@ -8,6 +8,9 @@ high-fidelity prototypes. It's all about blending creativity with functionality 
 
 Take a look around to discover some of the exciting projects I've been working on. Let’s dive in! 💻✨
 
+
+
+
 <div style="background-color: #333; color: white; padding: 30px; border-radius: 15px; text-aling: center;">
   <p dir="auto" style="display: flex; gap: 20px;">
      <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/analiarojas2900/imagenes/blob/main/python.png"><img height="50" src="https://github.com/analiarojas2900/imagenes/blob/main/python.png" alt="python" style="max-width: 100%; background-color:whithe;"></a></code>
