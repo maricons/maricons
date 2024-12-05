@@ -1,9 +1,18 @@
 # 🌸 Hi there! Welcome to my GitHub 🌸  
 
-Hi! I'm Constanza, a developer from Chile 🇨🇱 with a passion for bringing ideas to life through code.
+Hi! I'm Constanza, a developer from Chile 🇨🇱 with a passion for turning ideas into reality through code.
 
-I love crafting meaningful projects, whether it's building mobile apps or creating web platforms. Beyond coding, I have a knack for design and enjoy working in Figma creating simple wireframes to detailed, high-fidelity prototypes. It's all about blending creativity with functionality to deliver great UX. 
-Take a look around to discover some of the exciting projects I've been working on. Let’s dive in! 💻✨
+I love building impactful projects, whether it's developing mobile apps or creating web platforms. Outside of coding, I'm also into design and enjoy working in Figma, where I create everything from simple wireframes to polished, high-fidelity prototypes. It’s all about combining creativity and functionality to deliver an exceptional user experience. Feel free to explore some of the exciting projects I’ve been working on. Let’s dive in! 💻✨
+
+I'm a self-taught learner who discovered a love for English literature and poetry at the age of 15. This passion led me to achieve a B2 level in the Foreign Language Exam at the University of Cambridge in 2020, proving the power of self-directed learning.
+
+Sports and strength have always been a big part of my life. From childhood, I’ve earned championships and medals in Handball, and these days, I’m all about Powerlifting. I complement my training with a healthy, environmentally-conscious diet that fuels my body.
+
+Currently, I’m looking for a company that can help me grow further in the web development field, where I can continue to leverage the skills and knowledge I’ve built over time.
+
+I can't wrap this up without mentioning my adorable cat, Pan Batido, and my amazing partner, Javier. I feel incredibly lucky to share my life with him and am so proud of his intellect and achievements. You can check out his GitHub profile 
+[here](https://github.com/javicortesc).💗
+
 <br><br>
 <div style="background-color: #333; color: white; padding: 30px; border-radius: 15px; text-aling: center;">
   <p dir="auto" style="display: flex; gap: 20px;">
