@@ -1,6 +1,6 @@
 # 🌸 Hi there! Welcome to my GitHub 🌸  
 
-<div style="text-align: justify; text-indent: 2em; line-height: 1.6; width: 100%; max-width: 100%; margin: 0 auto;">
+<div style="text-align: justify; text-indent: 2em; line-height: 1.6; width: 100%; max-width: 80%; margin: 0 auto;">
   Hi! I'm Constanza, a developer from Chile 🇨🇱 with a passion for bringing ideas to life through code. 
   I love crafting meaningful projects, whether it's building mobile apps or creating web platforms.  
 
