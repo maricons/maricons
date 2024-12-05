@@ -6,9 +6,23 @@ Beyond coding, I have a knack for design and enjoy working in Figma—creating e
 
 Take a look around to discover some of the exciting projects I've been working on. Let’s dive in! 💻✨  
 
----
+<div style="background-color: #333; color: white; padding: 30px; border-radius: 15px; text-aling: center;">
+  <p dir="auto" style="display: flex; gap: 20px;">
+     <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/analiarojas2900/imagenes/blob/main/python.png"><img height="50" src="https://github.com/analiarojas2900/imagenes/blob/main/python.png" alt="python" style="max-width: 100%; background-color:whithe;"></a></code>
+    <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/analiarojas2900/imagenes/blob/main/html-5.png"><img height="50"  src="https://github.com/analiarojas2900/imagenes/blob/main/html-5.png" alt="HTML" style="max-width: 100%;"></a></code>
+     <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/analiarojas2900/imagenes/blob/main/css-3.png"><img height="50" src="https://github.com/analiarojas2900/imagenes/blob/main/css-3.png" alt="CSS" style="max-width: 100%;"></a></code>
+     <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/analiarojas2900/imagenes/blob/main/js.png"><img height="50" src="https://github.com/analiarojas2900/imagenes/blob/main/js.png" alt="JS" style="max-width: 100%;"></a></code>
+     <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/analiarojas2900/imagenes/blob/main/icons8-git-48.png"><img height="50" src="https://github.com/analiarojas2900/imagenes/blob/main/icons8-git-48.png" alt="git" style="max-width: 100%;"></a></code>  
+      <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"><img height="50" src="[https://github.com/analiarojas2900/imagenes/blob/main/icons8-git-48.png](https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png)" alt="typescript" style="max-width: 100%;"></a></code>
 
-I have experience in various areas of computer science, from front-end and back-end development to working with frameworks, tools, and technologies. Below, you'll find a collection of logos representing the tools and languages I use, highlighting my skills and expertise in the field.    
+
+    
+  </p> 
+</div>
+
+---
+I have experience in various areas of computer science, from front-end and back-end development to working with frameworks, tools, and technologies.
+Below, you'll find a collection of logos representing the tools and languages I use, highlighting my skills and expertise in the field.    
 
 ![Top Languajes](https://github-readme-stats.vercel.app/api/top-langs/?username=maricons&layout=compact)
 
