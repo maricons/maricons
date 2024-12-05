@@ -49,7 +49,7 @@ You can check out more details about this project in the following [presentation
 
 ---
 
-## 🍳 Recipe App (Ionic 7 + Firebase)  
+## 🍳 RecetApp (Ionic 7 + Firebase)  
 **Cooking made easy! 🍽️**  
 This hybrid mobile app helps users share and discover delicious recipes. Features include:  
 - 🔍 Search, post, and delete recipes (organized by categories like desserts, salads, etc.).  
@@ -60,15 +60,14 @@ Perfect for foodies looking for inspiration! 🌟
 
 ---
 
-
 ## ⚙️ ATAM Analysis for Hipócrates Medical Center  
 **System analysis like a pro 🔍**  
 Conducted an ATAM analysis for the **Hipócrates Medical Center**, diving deep into its architecture to ensure reliability and scalability. A must-have skill for any software architect! 💼  
 
 ---
 
-## 🎮 Valorant Enthusiast  
-When I’m not coding, you’ll probably find me playing Valorant. Let’s squad up sometime! 🎮🖤  
+## 🎮 Games Enthusiast
+When I’m not coding, you’ll likely find me playing Valorant, Wild Rift, Roblox, Pokémon TCG Pocket, or enjoying a good round of Catan. Let’s squad up sometime! 🎮🖤  
 
 ---
 
@@ -82,4 +81,4 @@ In my journey as a software developer, I’ve also crafted quality assurance rep
 
 Feel free to explore my projects and drop me a message if you want to collaborate or just chat about tech, games, or life! 🌟  
 
-**With love, 💖 Constanza**  
+**With lots of hustle, 💖 Constanza**  
