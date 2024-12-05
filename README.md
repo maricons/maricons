@@ -12,7 +12,6 @@ Currently, I’m looking for a company that can help me grow further in the web 
 
 I can't wrap this up without mentioning my adorable cat, Pan Batido, and my amazing partner, Javier. I feel incredibly lucky to share my life with him and am so proud of his intellect and achievements. You can check out his GitHub profile 
 [here](https://github.com/javicortesc).💗
-
 <br><br>
 <div style="background-color: #333; color: white; padding: 30px; border-radius: 15px; text-aling: center;">
   <p dir="auto" style="display: flex; gap: 20px;">
