@@ -4,6 +4,12 @@ Hi! I'm Constanza, a passionate developer from Chile 🇨🇱. I love turning id
 
 ---
 
+Here’s a quick glimpse of the programming languages I use the most, visualized for you:  
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=maricons&layout=compact
+
+---
+
 ## 🥚 Huevotama  
 **A fresh eggs e-commerce platform! 🥚**  
 Huevotama is all about connecting people with high-quality, fresh eggs 🐓. This web platform:  
