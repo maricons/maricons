@@ -74,6 +74,4 @@ In my journey as a software developer, I’ve also crafted quality assurance rep
 
 ---
 
-Feel free to explore my projects and drop me a message if you want to collaborate or just chat about tech, games, or life! 🌟  
-
 **With lots of hustle, 💖 Constanza**  
