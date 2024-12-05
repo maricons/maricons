@@ -27,7 +27,7 @@ I can't wrap this up without mentioning my adorable cat, [Pan Batido](https://ww
 ---
  |<a href="https://github.com/rashidul738/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maricons&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="kntz's github stats" /></a> | <a href="https://github.com/rashidul738/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maricons&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-Feel free to explore some of the exciting projects I’ve been working on. Let’s dive in! 💻✨
+<p>Feel free to explore some of the exciting projects I’ve been working on. Let’s dive in! ✨</p>
 ---
 
 ## 🥚 Huevotama  
@@ -62,7 +62,7 @@ Conducted an ATAM analysis for the **Hipócrates Medical Center**, diving deep i
 ---
 
 ## 🎮 Games Enthusiast
-When I’m not coding, you’ll likely find me playing Valorant, Wild Rift, Roblox, Pokémon TCG Pocket, or enjoying a good round of Catan. Let’s squad up sometime! 🎮🖤  
+When I’m not coding, you’ll likely find me playing Valorant, Wild Rift, Roblox, Pokémon TCG Pocket, or enjoying a good round of Catan. 🎮🖤  
 
 ---
 
