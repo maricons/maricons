@@ -30,7 +30,8 @@ I can't wrap this up without mentioning my adorable cat, [Pan Batido](https://ww
 I have experience in various areas of computer science, from front-end and back-end development to working with frameworks, tools, and technologies.
 Below, you'll find a collection of logos representing the tools and languages I use, highlighting my skills and expertise in the field.    
 <br><br>
-![Top Languajes](https://github-readme-stats.vercel.app/api/top-langs/?username=maricons&layout=compact)
+
+ |<a href="https://github.com/rashidul738/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maricons&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="kntz's github stats" /></a> | <a href="https://github.com/rashidul738/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maricons&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 ---
 
