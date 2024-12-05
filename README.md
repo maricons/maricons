@@ -2,7 +2,7 @@
 
 Hi! I'm Constanza, a developer from Chile 🇨🇱 with a passion for turning ideas into reality through code.
 
-I love building impactful projects, whether it's developing mobile apps or creating web platforms. Outside of coding, I'm also into design and enjoy working in Figma, where I create everything from simple wireframes to polished, high-fidelity prototypes. It’s all about combining creativity and functionality to deliver an exceptional user experience. Feel free to explore some of the exciting projects I’ve been working on. Let’s dive in! 💻✨
+I love building impactful projects, whether it's developing mobile apps or creating web platforms. Outside of coding, I'm also into design and enjoy working in Figma, where I create everything from simple wireframes to polished, high-fidelity prototypes. It’s all about combining creativity and functionality to deliver an exceptional user experience. 
 
 I'm a self-taught learner who discovered a love for English literature and poetry at the age of 15. This passion led me to achieve a B2 level in the Foreign Language Exam at the University of Cambridge in 2020, proving the power of self-directed learning.
 
@@ -12,6 +12,7 @@ Currently, I’m looking for a company that can help me grow further in the web 
 
 I can't wrap this up without mentioning my adorable cat, [Pan Batido](https://www.youtube.com/watch?v=dQw4w9WgXcQ), and my amazing partner, Javier. I feel incredibly lucky to share my life with him and am so proud of his intellect and achievements. You can check out his GitHub profile 
 [here](https://github.com/javicortesc).💗
+Feel free to explore some of the exciting projects I’ve been working on. Let’s dive in! 💻✨
 <br><br>
 <div style="background-color: #333; color: white; padding: 30px; border-radius: 15px; text-aling: center;">
   <p dir="auto" style="display: flex; gap: 20px;">
