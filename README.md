@@ -24,54 +24,5 @@ I can't wrap this up without mentioning my adorable cat, [Pan Batido](https://ww
   </p> 
 </div>
 
----
  |<a href="https://github.com/rashidul738/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maricons&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="kntz's github stats" /></a> | <a href="https://github.com/rashidul738/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maricons&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<p>Feel free to explore some of the exciting projects I’ve been working on. Let’s dive in! ✨</p>
----
-
-## 🥚 Huevotama  
-**A fresh eggs e-commerce platform! 🥚**  
-Huevotama is all about connecting people with high-quality, fresh eggs 🐓. This web platform:  
-- Manages orders for a Chilean egg brand, processes home delivery orders, and is set to expand into a mobile app for workers in the future.  
-- Ensures easy navigation for users to locate distributors nearby.  
-- Utilizes **Django**, **Bootstrap 5**, and **Google Maps API** for a smooth user experience and simplifying workflows.  
-- We used an **Agile Scrum methodology**, iterating with sprints and gathering valuable weekly feedback on the app.  
-
-A great project focused on providing quality eggs directly to customers with a user-centric approach! 🚀
-You can check out more details about this project in the following [presentation](https://www.canva.com/design/DAGYRqk2yCg/Yhkr7NIUZP_xK0iulD-5DA/edit?utm_content=DAGYRqk2yCg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). 
-
-
----
-
-## 🍳 RecetApp (Ionic 7 + Firebase)  
-**Cooking made easy! 🍽️**  
-This hybrid mobile app helps users share and discover delicious recipes. Features include:  
-- 🔍 Search, post, and delete recipes (organized by categories like desserts, salads, etc.).  
-- A tab dedicated to your own culinary creations.  
-- 🌈 Vibrant design with warm orange, white, and soft black tones.  
-
-Perfect for foodies looking for inspiration! 🌟  
-
----
-
-## ⚙️ ATAM Analysis for Hipócrates Medical Center  
-**System analysis like a pro 🔍**  
-Conducted an ATAM analysis for the **Hipócrates Medical Center**, diving deep into its architecture to ensure reliability and scalability. A must-have skill for any software architect!  
-
----
-
-## 🎮 Games Enthusiast
-When I’m not coding, you’ll likely find me playing Valorant, Wild Rift, Roblox, Pokémon TCG Pocket, or enjoying a good round of Catan. 🎮🖤  
-
----
-
-## 💼 Certification Reports  
-In my journey as a software developer, I’ve also crafted quality assurance reports. One of my latest projects evaluated a book donation platform, focusing on:  
-- Responsiveness   
-- API security 🔐  
-- Clean and efficient code practices 💡  
-
----
-
-**With lots of hustle, 💖 Constanza**  
